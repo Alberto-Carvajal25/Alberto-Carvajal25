@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alberto Carvajal 👋
 
 ### Estudiante de Ciencias Estadísticas y Actuariales | UCV
-📍 Carrizal, Estado Miranda, Venezuela | 📧 [Alberto25carvajal@gmail.com](mailto:Alberto25carvajal@gmail.com) | 📱 (0424) 2921660 | Edad 21 años 
+📍 Carrizal, Estado Miranda, Venezuela | 📧 [Alberto25carvajal@gmail.com](mailto:Alberto25carvajal@gmail.com) | 📱 (0424) 1845398 | Edad 21 años 
 
 ---
 
