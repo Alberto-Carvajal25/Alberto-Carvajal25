@@ -24,11 +24,14 @@ Soy estudiante de Ciencias Estadísticas y Actuariales en la Universidad Central
 
 A continuación, se presentan los proyectos académicos y de aplicación desarrollados durante mi formación académica. Puedes acceder a los archivos de respaldo haciendo clic en los títulos:
 
-### 📁 [1. Investigación Estadística Aplicada - Sector Judicial](./01-investigacion-judicial/)
+### 📁 [1. Investigación Estadística Aplicada - Sector Judicial](https://github.com/Alberto-Carvajal25/Portafolio-de-proyectos/tree/main/01-investigacion-judicial)
 *   **Rol:** Investigador Principal.
 *   **Descripción:** Estudio estadístico descriptivo sobre la productividad y el flujo de trabajo del Tribunal de Primera Instancia en lo Civil, Mercantil y Tránsito de Los Teques (2020-2022).
+* Diseñé y ejecuté un estudio estadístico descriptivo sobre la productividad y el flujo de trabajo del Tribunal de Primera Instancia en lo Civil, Mercantil y Tránsito de Los Teques durante el periodo 2020-2022.
+* Recopilé, depuré y procesé datos mensuales de causas ingresadas, sentencias emitidas (definitivas e interlocutorias) y solicitudes autónomas resueltas, manejando las interrupciones temporales causadas por la pandemia de COVID-19.
+* Calculé métricas clave de tendencia central y dispersión que evidenciaron un incremento sostenido en la carga laboral del tribunal, incluyendo el análisis de un promedio de 8 causas ingresadas y 13.6 sentencias mensuales.
 *   **Aporte:** Recopilé, depuré y procesé datos mensuales, calculando métricas de tendencia central y dispersión que evidenciaron el incremento de carga laboral (promedio de 8 causas ingresadas y 13.6 sentencias mensuales).
-*   **Tecnologías:** Tabulación de datos, Estadística Descriptiva, Microsoft.
+*   **Tecnologías:** Tabulación de datos, Estadística Descriptiva, Microsoft Excel.
 
 ### 📁 [2. Análisis de las Elecciones Presidenciales de EE. UU. 2016](./02-elecciones-eeuu-2016/)
 *   **Rol:** Coautor.
